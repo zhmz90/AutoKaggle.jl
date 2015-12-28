@@ -1,8 +1,8 @@
-# AutoKaggle
+# AutoML
 
-Automatic machine learning library for kaggle competitions, and also apply to general machine learning tasks.
+Automatic machine learning library for data scientists.
 
 
 ### short goals
+generate necessary codes
 
-useful for machine learning tasks
