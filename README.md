@@ -1,8 +1,18 @@
 # AutoML
 
-Automatic machine learning library for data scientists.
+Automatic machine learning library
 
 
-### short goals
-generate necessary codes
+### TODO lists
+	add various classification models
 
+### feature enginneer
+	feature selection and combination
+
+### model
+	randomforest
+	xgboost
+	neural network
+	svm
+	gp
+	
